@@ -1,1 +1,6 @@
 C:\Users\diat\Documents\GitHub\c-programming-in-school\class\class\bin\Debug\@class.exe.config
+C:\Users\diat\Documents\GitHub\c-programming-in-school\class\class\bin\Debug\@class.exe
+C:\Users\diat\Documents\GitHub\c-programming-in-school\class\class\bin\Debug\@class.pdb
+C:\Users\diat\Documents\GitHub\c-programming-in-school\class\class\obj\Debug\class.csprojResolveAssemblyReference.cache
+C:\Users\diat\Documents\GitHub\c-programming-in-school\class\class\obj\Debug\@class.exe
+C:\Users\diat\Documents\GitHub\c-programming-in-school\class\class\obj\Debug\@class.pdb
