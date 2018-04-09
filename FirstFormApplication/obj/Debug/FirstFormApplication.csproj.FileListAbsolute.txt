@@ -7,3 +7,12 @@ C:\ITCookbook\윈폼\FirstFormApplication\obj\Debug\FirstFormApplication.Propert
 C:\ITCookbook\윈폼\FirstFormApplication\obj\Debug\FirstFormApplication.csproj.GenerateResource.Cache
 C:\ITCookbook\윈폼\FirstFormApplication\obj\Debug\FirstFormApplication.exe
 C:\ITCookbook\윈폼\FirstFormApplication\obj\Debug\FirstFormApplication.pdb
+C:\Users\diat\Documents\GitHub\c-programming-in-school\FirstFormApplication\bin\Debug\FirstFormApplication.exe.config
+C:\Users\diat\Documents\GitHub\c-programming-in-school\FirstFormApplication\obj\Debug\FirstFormApplication.exe
+C:\Users\diat\Documents\GitHub\c-programming-in-school\FirstFormApplication\obj\Debug\FirstFormApplication.pdb
+C:\Users\diat\Documents\GitHub\c-programming-in-school\FirstFormApplication\bin\Debug\FirstFormApplication.exe
+C:\Users\diat\Documents\GitHub\c-programming-in-school\FirstFormApplication\bin\Debug\FirstFormApplication.pdb
+C:\Users\diat\Documents\GitHub\c-programming-in-school\FirstFormApplication\obj\Debug\FirstFormApplication.csprojResolveAssemblyReference.cache
+C:\Users\diat\Documents\GitHub\c-programming-in-school\FirstFormApplication\obj\Debug\FirstFormApplication.Form1.resources
+C:\Users\diat\Documents\GitHub\c-programming-in-school\FirstFormApplication\obj\Debug\FirstFormApplication.Properties.Resources.resources
+C:\Users\diat\Documents\GitHub\c-programming-in-school\FirstFormApplication\obj\Debug\FirstFormApplication.csproj.GenerateResource.Cache
